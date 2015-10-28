@@ -9,7 +9,7 @@ channels - bit depth - bit rate . file format
 
 -Channels can be: mono, stereo or 5.1 (surround sound)
 -Bit depth can be: 8 bit, 16 bit, 24 bit or 32 bit
--Bit rate can be: 44.1 kbps, 48 kbps, 64 kbps, 96 kbps or 192 kbps
+-Bit rate can be: 44.1 kbps, 48 kbps, 96 kbps or 192 kbps
 -File format - all files are WAV files
 
 With this in mind, here's an example filename:
