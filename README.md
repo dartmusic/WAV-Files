@@ -1,7 +1,7 @@
 The wav files in this repository were created for testing purposes. They are free to use how ever you'd like. The files are located in the Tracks folder. They are all 2 minutes long and contain nothing but silence.
 
 The naming convention for the tracks/files is as follows:
-channels - bit depth - bit rate . file format
+`channels - bit depth - bit rate . file format`
 
 * Channels can be: `mono` or `stereo`
 * Bit depth can be: `16 bit`, `24 bit` or `32 bit`
